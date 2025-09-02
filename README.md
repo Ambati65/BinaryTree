@@ -37,38 +37,6 @@ Each file focuses on a specific concept, making it easy to understand and practi
 - **Concepts:** Data Structures & Algorithms (Trees, BFS, DFS, Recursion)
 
 ---
----
 
-SumTransform : Input Tree                             
-        1                 
-       /  \
-      9    13
-     / \   / \
-    0   0 0   0
-
-SumTransform : output
-        1
-       / \
-      2   3
-     / \    \
-    4   5    6
-
----
-
-Check subtree exists in main tree: inputs
-
-Maintree
-        1
-       / \
-      2   3
-     / \    \
-    4   5    6
-
-SubTree
-    2
-   /
-  4
-
----
 
 
