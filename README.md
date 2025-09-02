@@ -15,7 +15,7 @@ Each file focuses on a specific concept, making it easy to understand and practi
 
 ---
 
-## 🚀 Features Implemented
+## 🚀 Problems Implemented
 - ✅ Binary Tree creation and node insertion  
 - ✅ BFS Traversal (Level-order traversal)  
 - ✅ DFS Traversal (Preorder, Inorder, Postorder)  
