@@ -31,12 +31,15 @@ Each file focuses on a specific concept, making it easy to understand and practi
 
 
 ---
-
 ## 🛠️ Technologies Used
-- **Language:** Java ☕  
-- **Concepts:** Data Structures & Algorithms (Trees, BFS, DFS, Recursion)
+- **Java**  
+- Concepts of **Recursion, BFS, DFS, Hashing**
+
+## 🤝 Contributions
+This repo is part of my **DSA revision journey**. Feel free to fork and add more problems!  
 
 ---
+
 
 
 
