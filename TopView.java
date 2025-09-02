@@ -46,7 +46,7 @@ public class TopView {
         }
 
         for(int i=min;i<=max;i++){
-            System.out.println(mpp.get(i).data);
+            System.out.print(mpp.get(i).data);
         }
     }
 
